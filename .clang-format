@@ -1,0 +1,10 @@
+﻿---
+BasedOnStyle: Chromium
+BreakBeforeBraces: Linux
+SpaceInEmptyParentheses: 'false'
+ColumnLimit: 140
+IndentWidth: 3
+AllowShortBlocksOnASingleLine: true 
+AllowShortIfStatementsOnASingleLine: true
+BreakBeforeBraces: Custom
+...
